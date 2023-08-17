@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "text": "task 1",
+      "day": "4567",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "fgg",
+      "day": "21 april",
+      "reminder": false,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
